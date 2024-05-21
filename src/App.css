@@ -1,0 +1,13 @@
+button:disabled {
+    background-color: #ccc; 
+    cursor: not-allowed;    
+    color: #666;          
+}
+.search{
+    position: relative;
+}
+.search-btn{
+    position: absolute;
+    right: 0px;
+    /* top: 0; */
+}
